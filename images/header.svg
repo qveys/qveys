@@ -20,7 +20,7 @@
     <g transform="translate(80, 180)">
         <path id="path0">
             <animate id="d0" attributeName="d" begin="0s" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -29,7 +29,7 @@
 
         <path id="path1">
             <animate id="d1" attributeName="d" begin="d0.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -38,7 +38,7 @@
 
         <path id="path2">
             <animate id="d2" attributeName="d" begin="d1.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -47,7 +47,7 @@
 
         <path id="path3">
             <animate id="d3" attributeName="d" begin="d2.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -56,7 +56,7 @@
 
         <path id="path4">
             <animate id="d4" attributeName="d" begin="d3.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -65,7 +65,7 @@
 
         <path id="path5">
             <animate id="d5" attributeName="d" begin="d4.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -74,7 +74,7 @@
 
         <path id="path6">
             <animate id="d6" attributeName="d" begin="d5.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -83,7 +83,7 @@
 
         <path id="path7">
             <animate id="d7" attributeName="d" begin="d6.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -92,7 +92,7 @@
 
         <path id="path8">
             <animate id="d8" attributeName="d" begin="d7.end" dur="6000ms" fill="remove"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h0"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h0"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
@@ -101,7 +101,7 @@
 
         <path id="path9">
             <animate id="d9" attributeName="d" begin="d8.end" dur="6000ms" fill="freeze"
-                     values="m0,20 h0 ; m0,20 h530 ; m0,20 h530 ; m0,20 h530"
+                     values="m0,20 h0 ; m0,20 h700 ; m0,20 h700 ; m0,20 h700"
                      keyTimes="0;0.66666666666667;0.83333333333333;1"/>
         </path>
         <text class="text-white">
