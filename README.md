@@ -20,12 +20,29 @@
 
 ---
 
-## 🎬 TL;DR
+## 🚀 About Me
 
+- Full Stack Developer 🧑‍💻 • Infra Whisperer 🛠 • Bug Whisperer (sometimes) 🐞
 - 💼 8 years building smart systems for *ICHEC Brussels Management School*
-- ⚙️ Full-stack Dev enthusiast 
 - 📍 Based in Belgium, working worldwide
 - 🚀 Currently seeking new mission-driven challenges (CDI welcome!)
 
 ---
 
+> _"I turn ☕ into code, and chaos into containers."_
+
+---
+
+## 🛠️ My developer personality in 5 logs 
+*(because `console.log` is life)*
+
+```diff
++ [INFO] Writes clean code, even when no one's watching
++ [DEBUG] Spends 6 hours automating a 5-minute task (and logs it proudly)
+! [WARN] Might go on passionate rants about session cookies, JWTs, or reverse proxies
+- [ERROR] Social life not found during hackathons
+~ [LOG] Rebooted production at 3AM — because it felt right
++ [SUCCESS] Deployed. Documented. Delivered. 💥
+```
+
+---
