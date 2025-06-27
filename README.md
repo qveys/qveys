@@ -80,3 +80,22 @@
 ### Soft Skills
 
 <img src="https://img.shields.io/badge/Self--taught-6E40C9?style=for-the-badge&logo=ReadTheDocs&logoColor=white" alt="Self-taught"/> <img src="https://img.shields.io/badge/Problem%20Solver-FF6B6B?style=for-the-badge&logo=HackTheBox&logoColor=white" alt="Problem Solver"/> <img src="https://img.shields.io/badge/Initiative--taking-2ECC71?style=for-the-badge&logo=PowerShell&logoColor=white" alt="Initiative-taking"/> <img src="https://img.shields.io/badge/Needs%20analysis-FFB100?style=for-the-badge&logo=SimpleAnalytics&logoColor=white" alt="Needs analysis"/> <img src="https://img.shields.io/badge/User%20support-00BFFF?style=for-the-badge&logo=Zendesk&logoColor=white" alt="User support"/> <img src="https://img.shields.io/badge/Team%20management-E91E63?style=for-the-badge&logo=GoogleGroups&logoColor=white" alt="Team management"/>
+
+---
+
+## 💬 Let's Collaborate
+
+Want to ship faster, secure better, or explore smarter tools together?
+
+💌 **Feel free to reach out for collaborations, questions, or just to say hi!**
+
+---
+
+> 🛰️ _This README is powered by curiosity and midnight commits._
+
+<div align="center">
+<i>⭐ If you’ve found value in my repos or ideas, a star 🌟 goes a long way !</i>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=qveys&color=3B82F6&style=for-the-badge" alt="Profile views" />
+</div>
+
