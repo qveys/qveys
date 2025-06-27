@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="80" viewBox="0 0 250 80">
+    <defs>
+        <linearGradient id="strokeGrad" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#7b5eff"/>
+            <stop offset="100%" stop-color="#f15bb5"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Contour arrondi -->
+    <rect x="2" y="2" rx="40" ry="40" width="246" height="76" fill="#0f0f1a" stroke="url(#strokeGrad)" stroke-width="2"/>
+
+    <!-- Texte -->
+    <text x="43%" y="53%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+        CONTACT ME
+    </text>
+
+    <!-- Icône contact utilisateur -->
+    <g transform="translate(185, 27)" fill="white">
+        <circle cx="9" cy="8" r="4"/>
+        <path d="M15 11h6v2h-6v-2zm0 4h4v2h-4v-2zm0-8h6v2h-6V7z"/>
+        <path d="M3 20v-1c0-2.2 3.6-4 6-4s6 1.8 6 4v1H3z"/>
+    </g>
+</svg>

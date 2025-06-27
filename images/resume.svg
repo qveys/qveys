@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="80" viewBox="0 0 250 80">
+    <defs>
+        <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#f15bb5"/>
+            <stop offset="100%" stop-color="#7b5eff"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Fond arrondi avec dégradé -->
+    <rect x="0" y="0" rx="40" ry="40" width="250" height="80" fill="url(#grad)"/>
+
+    <!-- Texte -->
+    <text x="43%" y="53%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+        GET RESUME
+    </text>
+
+    <g transform="translate(185, 27)">
+        <path fill="white" d="M5 20h14v-2H5v2zm7-18L7 10h4v4h2v-4h4l-5-8z"/>
+    </g>
+
+</svg>
