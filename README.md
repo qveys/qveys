@@ -1,4 +1,5 @@
 <img src="https://raw.github.com/qveys/qveys/master/images/header.svg" alt="github header"/>
+
 <p align="center">
   <a href="https://github.com/qveys" target="_blank" style="cursor: pointer;"><img src="https://raw.github.com/qveys/qveys/master/images/github.svg" alt="github"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,5 +12,20 @@
   <a href="https://facebook.com/qveys" target="_blank" style="cursor: pointer;"><img src="https://raw.github.com/qveys/qveys/master/images/facebook.svg" alt="facebook"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/qveys" target="_blank" style="cursor: pointer;"><img src="https://raw.github.com/qveys/qveys/master/images/instagram.svg" alt="instagram"/></a>
-
 </p>
+
+---
+
+> _“Tech is my toolkit, impact is my goal.”_
+
+---
+
+## 🎬 TL;DR
+
+- 💼 8 years building smart systems for *ICHEC Brussels Management School*
+- ⚙️ Full-stack Dev enthusiast 
+- 📍 Based in Belgium, working worldwide
+- 🚀 Currently seeking new mission-driven challenges (CDI welcome!)
+
+---
+
